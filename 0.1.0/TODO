@@ -1,0 +1,16 @@
+1. Buat sebuah shortcut
+   Setiap [Ctrl+S] langsung keluar jendela simpan
+   Setiap [Ctrl+O] langsung keluar jendela buka
+
+
+[ ] Keybinding [Ctrl+S] [Ctrl+O]
+[-] Fungsi simpan & buka
+[ ] Notebook style
+[ ] Pewarnaan syntax python
+[ ] About dialog
+
+
+Keterangan:
+[ ] = belum dibuat
+[-] = penyempurnaan
+[+] = sempurna
