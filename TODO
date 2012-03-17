@@ -1,0 +1,27 @@
+Basic:
+[+] Penambahan menubar
+[+] Penambahan statusbar
+[+] Penambahan open & save dialog
+[+] Penambahan shortcut
+[+] Peringatan ketika file belum tersimpan
+[+] Penambahan notifikasi statusbar ketika sedang menulis file / membaca
+    file
+[-] Penambahan pilihan font
+[ ] Penambahan letak cursos distatusbar
+[ ] Penambahan tabbar
+[ ] Penyempurnaan kode sumber
+
+Sukses / versi 1.0.0:
+[ ] Penambahan highlight syntax2 python
+[ ] Dapat mengenali type file
+[ ] Powerfull
+
+Kelanjutan:
+[ ] Penambahan widget file browser
+[ ] Penambahan fungsionalitas plugin
+
+
+Keterangan:
+[ ] = Belum terlaksana
+[-] = Sedang dikerjakan
+[+] = Berhasil dikerjakan
